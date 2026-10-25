@@ -10,7 +10,7 @@
     .lb{font:600 12.5px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
     .dt{font:500 11px ui-monospace,Menlo,Consolas,monospace}
     @media (prefers-color-scheme: dark){
-      .ink{fill:#E7ECF3}.soft{fill:#AAB4C3}.faint{fill:#7F8A9B}.rule{stroke:#2A3441}.pin{stroke:#E7ECF3}
+      .ink{fill:#E7ECF3}.soft{fill:#AAB4C3}.faint{fill:#7F8A9B}.rule{stroke:#2A3441}.pin{stroke:#DB0011}
       .e1{fill:#4F86BF}.e2{fill:#A066B4}.e3{fill:#2A9F8B}.e4{fill:#DB0011}
     }
   </style>
