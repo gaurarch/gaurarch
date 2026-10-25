@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 210" width="960" height="210" role="img" aria-labelledby="t d">
+  <title id="t">Career timeline, 2010 to 2026, drawn to scale</title>
+  <desc id="d">Patni / iGATE 2010–2013, Accenture 2013–2015, HSBC process automation 2015–2022, HSBC digital assets 2022–now. Milestones: career starts June 2010, joins HSBC 2015, Associate Director March 2024, Besu certified October 2026.</desc>
+  <style>
+    .ink{fill:#16202C}.soft{fill:#4B5768}.faint{fill:#7C8696}.rule{stroke:#DDE2EA}.pin{stroke:#16202C}
+    .e1{fill:#3A6EA5}.e2{fill:#8A4F9E}.e3{fill:#1F8A78}.e4{fill:#B8860B}
+    .seg{fill:#FFFFFF;font:700 15px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+    .yrs{fill:#FFFFFF;fill-opacity:.9;font:500 11px ui-monospace,Menlo,Consolas,monospace}
+    .ax{font:500 11px ui-monospace,Menlo,Consolas,monospace}
+    .lb{font:600 12.5px -apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+    .dt{font:500 11px ui-monospace,Menlo,Consolas,monospace}
+    @media (prefers-color-scheme: dark){
+      .ink{fill:#E7ECF3}.soft{fill:#AAB4C3}.faint{fill:#7F8A9B}.rule{stroke:#2A3441}.pin{stroke:#E7ECF3}
+      .e1{fill:#4F86BF}.e2{fill:#A066B4}.e3{fill:#2A9F8B}.e4{fill:#C99A1E}
+    }
+  </style>
+  <defs><clipPath id="r"><rect x="10" y="10" width="940" height="64" rx="12"/></clipPath></defs>
+  <!-- Span Jun 2010 → Oct 2026 (16.33 yrs) mapped to x 10..950 -->
+  <g clip-path="url(#r)">
+    <rect class="e1" x="10"  y="10" width="170" height="64"/>
+    <rect class="e2" x="180" y="10" width="104" height="64"/>
+    <rect class="e3" x="284" y="10" width="391" height="64"/>
+    <rect class="e4" x="675" y="10" width="275" height="64"/>
+  </g>
+  <text class="seg" x="24"  y="38">Patni · iGATE</text><text class="yrs" x="24"  y="58">2010–2013</text>
+  <text class="seg" x="194" y="38">Accenture</text>    <text class="yrs" x="194" y="58">2013–15</text>
+  <text class="seg" x="298" y="38">HSBC · Process automation</text><text class="yrs" x="298" y="58">2015–c.2022</text>
+  <text class="seg" x="689" y="38">HSBC · Digital assets</text><text class="yrs" x="689" y="58">c.2022–now</text>
+
+  <g class="faint ax">
+    <text x="10" y="94">Jun 2010</text>
+    <text x="284" y="94" text-anchor="middle">2015</text>
+    <text x="675" y="94" text-anchor="middle">2022</text>
+    <text x="950" y="94" text-anchor="end">2026</text>
+  </g>
+
+  <g stroke-width="2">
+    <line class="pin" x1="11"  y1="108" x2="11"  y2="130"/>
+    <line class="pin" x1="284" y1="108" x2="284" y2="130"/>
+    <line class="pin" x1="800" y1="108" x2="800" y2="130"/>
+    <line class="pin" x1="949" y1="108" x2="949" y2="130"/>
+  </g>
+  <text class="ink dt" x="10"  y="150">10 Jun 2010</text>  <text class="soft lb" x="10"  y="168">Career starts</text>
+  <text class="ink dt" x="284" y="150" text-anchor="middle">2015</text><text class="soft lb" x="284" y="168" text-anchor="middle">Joins HSBC</text>
+  <text class="ink dt" x="806" y="150" text-anchor="end">Mar 2024</text><text class="soft lb" x="806" y="168" text-anchor="end">Associate Director</text>
+  <text class="ink dt" x="950" y="150" text-anchor="end">Oct 2026</text><text class="soft lb" x="950" y="168" text-anchor="end">Besu certified</text>
+
+  <text class="faint" x="10" y="200" style="font:400 11px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif">Each segment's width is proportional to its length. Dates marked c. are approximate.</text>
+</svg>
