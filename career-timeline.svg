@@ -11,7 +11,7 @@
     .dt{font:500 11px ui-monospace,Menlo,Consolas,monospace}
     @media (prefers-color-scheme: dark){
       .ink{fill:#E7ECF3}.soft{fill:#AAB4C3}.faint{fill:#7F8A9B}.rule{stroke:#2A3441}.pin{stroke:#E7ECF3}
-      .e1{fill:#4F86BF}.e2{fill:#A066B4}.e3{fill:#2A9F8B}.e4{fill:#C99A1E}
+      .e1{fill:#4F86BF}.e2{fill:#A066B4}.e3{fill:#2A9F8B}.e4{fill:#DB0011}
     }
   </style>
   <defs><clipPath id="r"><rect x="10" y="10" width="940" height="64" rx="12"/></clipPath></defs>
