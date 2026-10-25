@@ -14,7 +14,7 @@
 Sixteen years in financial and industrial technology: hands-on Java engineering, back-office automation that thousands of operations staff use every day, identity and access design, and now four years architecting tokenization platforms on **DAML / Canton** and **Hyperledger Besu**.
 
 <p align="center">
-  <img src="./assets/career-timeline.svg" alt="Career timeline 2010–2026: Patni/iGATE, Accenture, HSBC process automation, HSBC digital assets" width="100%"/>
+  <img src="./career-timeline.svg" alt="Career timeline 2010–2026: Patni/iGATE, Accenture, HSBC process automation, HSBC digital assets" width="100%"/>
 </p>
 
 <table align="center">
