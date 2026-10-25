@@ -1,7 +1,7 @@
 <h1 align="center">Gaurav Bhadange</h1>
 
 <p align="center">
-  <b>From Java developer to digital-assets architect.</b><br/>
+  <b>From java-developer to digital-assets architect.</b><br/>
   Associate Director · Tech SME Specialist @ HSBC · Solution architect for tokenization platforms · Pune, India
 </p>
 
