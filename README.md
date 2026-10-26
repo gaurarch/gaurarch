@@ -38,11 +38,11 @@ Each move added a layer: Java foundations, then front-end and enterprise deliver
 - **Bond tokenization on DAML / Canton** — a modular, bounded-context design covering party registry, instruments, holdings, settlement and lifecycle
 - **Multi-asset tokenization & fractionalization on Hyperledger Besu** — wholesale bonds, precious metals and syndicated loans
 - **Digital-asset custody** with HSM-backed key management on Google Cloud
-- Integration with financial messaging and loan systems: **SWIFT, ISO 20022, Loan IQ**
+- Integration with financial messaging and loan systems: **SWIFT, ISO 20022, Tokenization**
 - Privacy research for Besu: zero-knowledge proofs and Paladin privacy domains
 - Promoted to **Associate Director · Tech SME Specialist** in March 2024
 
-`DAML` `Canton` `Hyperledger Besu` `QBFT` `HSM custody` `GCP` `ISO 20022` `SWIFT` `Loan IQ` `Paladin`
+`DAML` `Canton` `Hyperledger Besu` `QBFT` `HSM custody` `GCP` `ISO 20022` `SWIFT` `Tokenization` `Paladin`
 
 ### 🟢 Process automation · HSBC &nbsp;<sub><code>2015 – c.2022</code></sub>
 **Rebuilding back-office automation for a global bank.** Rather than keep writing bespoke apps, I pushed for a reusable, configurable platform that adapts quickly to new markets and use cases.
@@ -108,7 +108,7 @@ Each move added a layer: Java foundations, then front-end and enterprise deliver
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/ISO%2020022-004C97?style=flat-square"/>
 <img src="https://img.shields.io/badge/SWIFT-0A2240?style=flat-square"/>
-<img src="https://img.shields.io/badge/Loan%20IQ-5A2D82?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tokenization-5A2D82?style=flat-square"/>
 <img src="https://img.shields.io/badge/BPMN%202.0-FF6B00?style=flat-square"/>
 <img src="https://img.shields.io/badge/Activiti-444?style=flat-square"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
